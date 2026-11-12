@@ -7,7 +7,7 @@
 <img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/bash_dark.svg" alt="sh" width="50" height="50"/>
 <img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/cplusplus-dark.svg" alt="cplusplus" width="50" height="50"/>
 <img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/python-dark.svg" alt="python" width="50" height="50"/>
-  <img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/mojo-dark.svg" alt="mojo" width="50" height="50"/>
+<img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/mojo-dark.svg" alt="mojo" width="50" height="50"/>
 <img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/docker-dark.svg" alt="docker" width="50" height="50"/>
 </div>
 
