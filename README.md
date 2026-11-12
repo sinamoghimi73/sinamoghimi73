@@ -5,7 +5,7 @@
 ## Language
 <div align="center">
 <img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/bash_dark.svg" alt="sh" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+<img src="https://github.com/sinamoghimi73/sinamoghimi73/blob/main/assets/cplusplus-dark.svg" alt="cplusplus" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="cplusplus" width="50" height="50"/>
 </div>
 
